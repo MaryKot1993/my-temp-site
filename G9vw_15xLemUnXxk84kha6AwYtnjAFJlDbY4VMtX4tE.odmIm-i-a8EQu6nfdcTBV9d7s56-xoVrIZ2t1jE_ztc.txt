@@ -1,1 +1,0 @@
- {"type":"urn:ietf:params:acme:error:unauthorized","detail":"2606:50c0:8003::153: Invalid response from http://marykot1993.github.io/.well-known/acme-challenge/G9vw_15xLemUnXxk84kha6AwYtnjAFJlDbY4VMtX4tE: 404","status":403,"instance":null}
